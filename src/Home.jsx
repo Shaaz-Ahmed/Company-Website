@@ -14,7 +14,7 @@ const Home = () => {
                                 <div className='col-md-6 pt-5 pt-lg-0 order-2 order-lg-1 d-flex justify-content-center flex-column' id='five'>
                                     <h1 id='two'>Grow your business with <strong id='one'>Service Guru!</strong></h1>
                                     <h5 className='my-2' >
-                                        We are the team of talented developers making websites
+                                        we are the team of talented developers making websites
                                     </h5>
                                     <div className='mt-3'>
                                         <NavLink to='/service' className='btn1' id=''>Get Started</NavLink>
