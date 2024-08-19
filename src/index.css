@@ -58,9 +58,6 @@ text-transform: capitalize;
 .my-2{
     color: grey;
 }
-#two{
-  
-}
 #three{
     margin-top: 50px;
 }
@@ -79,8 +76,9 @@ text-transform: capitalize;
 #five{
     margin-top: -115px;
 }
-
-
 .my-5{
     margin-top: 100px;
+}
+#five{
+    margin-top: -116px;
 }
